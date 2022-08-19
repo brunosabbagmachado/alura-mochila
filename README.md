@@ -1,4 +1,4 @@
-# alura-armazenando-na-web
+# Mochila de Viagem
 
 Para ver o projeto clique [aqui](https://brunosabbagmachado.github.io/alura-mochila/).
 
