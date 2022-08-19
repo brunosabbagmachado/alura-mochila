@@ -9,7 +9,7 @@ Neste curso aprendi mais sobre:
 - localStorage;
 - uso do JSON;
 
-Para ver o projeto clique [aqui](https://brunosabbagmachado.github.io/mochila-de-viagem/).
+Para ver o projeto clique [aqui](https://brunosabbagmachado.github.io/alura-mochila/).
 
 
 Desenho da Mochila criado por [Triciaa Katz](https://codepen.io/triciaakatz).
